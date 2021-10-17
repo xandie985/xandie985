@@ -3,8 +3,9 @@
 <a href="https://github.com/xandie985">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=cobalt"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=cobalt&show_icons=true"/>
-  
+  <!--
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xandie985&layout=compact&langs_count=8&theme=algolia"/>
+  -->
 </a>
 </p>
 
