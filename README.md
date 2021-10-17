@@ -1,35 +1,15 @@
 ### Hi there 👋
+
+[![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)](https://www.linkedin.com/in/xandie985/)
+[<img src="https://img.shields.io/badge/sxandie-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://instagram.com/xandie985)
+![GitHub followers](https://img.shields.io/github/followers/xandie985?label=Follow&style=social)
+![Github visits](https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat)
+[![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
 <p align="center">
 <a href="https://github.com/xandie985">
-  <img height="120em" width ="100em" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=cobalt"/>
-  <img height="120em" width ="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=cobalt&show_icons=true"/>
-  <!--
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xandie985&layout=compact&langs_count=8&theme=algolia"/>
-  -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=tokyonight&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight/:last_30_days"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
 </a>
 </p>
-
-
-[![Sandeep Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=cobalt)](https://github.com/xandie/github-readme-stats)
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=cobalt&show_icons=true"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandie985&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/xandie985)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat" alt="xandie985" /> </p>
-
-
-<!--
-**xandie985/xandie985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
