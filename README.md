@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-<a href="https://github.com/xandie985">
-<img align="center" alt="Sandeep Kumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xandie985&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+[![Sandeep Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=cobalt)](https://github.com/xandie/github-readme-stats)
 
-<a href="https://github.com/xandie985">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xandie985&layout=compact&theme=radical" />
-</a>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=cobalt&show_icons=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandie985&layout=compact&theme=cobalt&count_private=true&langs_count=10)](https://github.com/xandie985)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat" alt="xandie985" /> </p>
+
+
 <!--
 **xandie985/xandie985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
