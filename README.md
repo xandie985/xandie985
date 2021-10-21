@@ -16,7 +16,7 @@ Note: I started using wakatime from 18th October 2021. So the data presented is 
 <a href="https://github.com/xandie985">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=tokyonight"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=tokyonight&show_icons=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight/:last_30_days"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight/:last_30_days"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
 </a>
 </p>
