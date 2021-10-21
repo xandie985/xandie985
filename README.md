@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am currently doing masters in Artificial Intelligence from the University of Bologna. 
 
+Note: I started using wakatime from 18th October 2021. So the data presented is with the reference of that day.
 [![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)](https://www.linkedin.com/in/xandie985/)
 [<img src="https://img.shields.io/badge/sxandie-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://instagram.com/xandie985)
 ![GitHub followers](https://img.shields.io/github/followers/xandie985?label=Follow&style=social)
