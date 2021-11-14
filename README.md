@@ -3,6 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/xandie985?label=Follow&style=social)
 ![Github visits](https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat)
 [![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
+[![wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
 
 ### Hi there 👋
 I am currently doing masters in Artificial Intelligence from the University of Bologna. 
