@@ -5,6 +5,9 @@
 [![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
 
 ### Hi there 👋
+![Hi](https://media.giphy.com/media/l3fPlHQOHUzYRufm7E/giphy.gif)
+
+
 I am currently doing masters in Artificial Intelligence from the University of Bologna. 
 <!--
 [![Github stats](https://github.com/xandie985/stats/blob/master/generated/overview.svg)]
@@ -17,3 +20,6 @@ I am currently doing masters in Artificial Intelligence from the University of B
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
 </a>
 </p>
+
+#### thank you visiting! :)
+![Bi](https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif)
