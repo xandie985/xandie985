@@ -21,5 +21,6 @@ I am currently doing masters in Artificial Intelligence from the University of B
 </a>
 </p>
 
-#### thank you visiting! :)
 ![Bi](https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif)
+
+#### thank you for visiting! :)
