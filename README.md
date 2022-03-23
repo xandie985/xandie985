@@ -8,7 +8,7 @@ Connect with me:
 [![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
 
 ### Hi there 👋
-![Hi](https://media.giphy.com/media/PnDRNekrgtHh5jXMna/giphy.gif)
+![Hi](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 
 
 I am currently doing masters in Artificial Intelligence from the University of Bologna. 
