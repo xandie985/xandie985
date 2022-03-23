@@ -24,6 +24,6 @@ I am currently doing masters in Artificial Intelligence from the University of B
 </a>
 </p>
 
-![Bi](https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif)
+![Bi](https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif)
 
 #### thank you for visiting! :)
