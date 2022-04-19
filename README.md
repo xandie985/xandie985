@@ -1,3 +1,4 @@
+### Hi there 👋
 I am currently doing my masters in AI from the University of Bologna. I have an experience of around 3 years as Senior Software Engineer in Globallogic (Hitachi), Bangalore. I completed my undergraduation from Chitkara University in the year 2018. 
 
 Connect with me:
@@ -9,11 +10,8 @@ Connect with me:
 ![Github visits](https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat)
 [![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
 
-### Hi there 👋
 ![Hi](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 
-
-I am currently doing masters in Artificial Intelligence from the University of Bologna. 
 <!--
 [![Github stats](https://github.com/xandie985/stats/blob/master/generated/overview.svg)]
 -->
