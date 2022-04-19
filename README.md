@@ -1,16 +1,16 @@
 ### Hi there 👋
 I am currently doing my masters in AI from the University of Bologna. I have an experience of around 3 years as Senior Software Engineer in Globallogic (Hitachi), Bangalore. I completed my undergraduation from Chitkara University in the year 2018. 
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="250" height="250"/>
 
-Connect with me:
+<div align="center">
 
+![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)</a>
+<a href="">[<img src="https://img.shields.io/badge/sxandie-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://instagram.com/sxandie) </a>
 
-[![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)](https://www.linkedin.com/in/xandie985/)
-[<img src="https://img.shields.io/badge/sxandie-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />](https://instagram.com/sxandie)
-![GitHub followers](https://img.shields.io/github/followers/xandie985?label=Follow&style=social)
-![Github visits](https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat)
-[![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)
-
-![Hi](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+<a href="">![GitHub followers](https://img.shields.io/github/followers/xandie985?label=Follow&style=social) </a>
+<a href="">![Github visits](https://komarev.com/ghpvc/?username=xandie985&label=Profile%20views&color=ce9927&style=flat)</a>
+<a href="">[![Wakatime](https://wakatime.com/badge/user/6b8b0b45-01a1-43cc-915f-25035793aaf1.svg)](https://wakatime.com/@6b8b0b45-01a1-43cc-915f-25035793aaf1)</a>
+</div>
 
 <!--
 [![Github stats](https://github.com/xandie985/stats/blob/master/generated/overview.svg)]
