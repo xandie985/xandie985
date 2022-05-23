@@ -1,5 +1,7 @@
-### Hi there 👋
-I am currently doing my masters in AI from the University of Bologna. I have an experience of around 3 years as Senior Software Engineer in Globallogic (Hitachi), Bangalore. I completed my undergraduation from Chitkara University in the year 2018. 
+## Hi there 👋
+#### I am currently doing my masters in AI from the University of Bologna. I have an experience of around 3 years as Senior Software Engineer in Globallogic (Hitachi), Bangalore. I completed my undergraduation from Chitkara University in the year 2018. 
+
+
 <div align="center">
 
 ![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)</a>
@@ -22,4 +24,6 @@ I am currently doing my masters in AI from the University of Bologna. I have an 
 </a>
 </p>
 
-#### thank you for visiting! :)
+<p align="center">
+<b> thank you for visiting! :) </b>
+</p>
