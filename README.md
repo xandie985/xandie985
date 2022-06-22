@@ -19,8 +19,8 @@
 <a href="https://github.com/xandie985">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=tokyonight"/>
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=tokyonight&show_icons=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight/:last_30_days"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight/:last_30_days"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985" />
 </a>
 </p>
 
