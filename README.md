@@ -32,28 +32,25 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 
 **My Toolbox:**
 
-
-
-* **Languages:** Python, C++, Java, Scala, MySQL
-* **ML & AI:** TensorFlow, PyTorch, scikit-learn, XGBoost, OpenAI LLMs
-* **NLP & CV:** NLTK, SpaCy, OpenCV, Transformers
-* **Other:** AWS, Docker, Git, and more!
-
+* **Languages:** Python, C++, Java, MySQL
+* **ML & AI:** TensorFlow, PyTorch, scikit-learn, XGBoost, Closed and Open LLMs
+* **NLP & CV:** NLTK, SpaCy, OpenCV, Transformers, Stable Diffusion
+* **Other:** AWS, GCP, Docker, Git, and more! 
 
 ---
 
 **My Adventures:**
 
-* **Wenda SRL:** Tamed supply chains with NLP & CV, saving 50% labor! 💪
+* **Wenda SRL:** Tamed supply chains with NLP & CV, saving 70% human time! 💪
 * **Proceedit:** Predicted stock market & crypto moves (81% accuracy... not too shabby 😎).
-* **GlobalLogic:** Analyzed 100K patents & optimized warehouse routes like a boss.
-* **National Chung Cheng University:** Built a real-time traffic sign detector (watch out, self-driving cars!).
+* **GlobalLogic:** Analyzed 100K patents & optimized warehouse routes like a boss. 🤖
+* **National Chung Cheng University:** Built a real-time traffic sign detector (watch out, self-driving cars!) 🚗
 
 ---
 
 **My kryptonite:**
 
-- Bad puns: I can't resist a good (or bad) pun, especially if it involves data or code.
+- Bad puns: I can't resist a good (or bad) pun, especially if it involves data or code. 🍻
 
 ---
 
