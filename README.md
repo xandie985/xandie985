@@ -44,7 +44,7 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 * **Wenda SRL:** Tamed supply chains with NLP & CV, saving 70% human time! 💪
 * **Proceedit:** Predicted stock market & crypto moves (81% accuracy... not too shabby 😎).
 * **GlobalLogic:** Analyzed 100K patents & optimized warehouse routes like a boss. 🤖
-* **National Chung Cheng University:** Built a real-time traffic sign detector (watch out, self-driving cars!) 🚗
+* **National Chung Cheng University:** Built a real-time traffic sign detector (watch out, self-driving cars! 🚗) 
 
 ---
 
