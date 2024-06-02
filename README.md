@@ -3,7 +3,6 @@
 ## 👋 Hey there, I'm Sandeep!
 
 
-
 <div align="left">
 
 [![Linkedin: Sandeep Kumar](https://img.shields.io/badge/-Sandeep_Kumar_Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xandie985/)](https://www.linkedin.com/in/xandie985/)
