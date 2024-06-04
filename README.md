@@ -33,7 +33,7 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 * **Languages:** Python, C++, Java, MySQL
 * **ML & AI:** TensorFlow, PyTorch, scikit-learn, XGBoost, Closed and Open LLMs
 * **NLP & CV:** NLTK, SpaCy, OpenCV, Transformers, Stable Diffusion
-* **Other:** AWS, GCP, Docker, Git, and more! 
+* **Other:** AWS, GCP, Docker, Git, & more! 
 
 ---
 
