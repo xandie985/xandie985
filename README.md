@@ -54,6 +54,6 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 
 **My Side Gigs:**
 
-* Predicting everything from animal adoptions to fruit quality (I'm a regular oracle 🔮).
+* Stacking Karpathy, Cooking pasta, Shooting images, and "write something unpredictable".  
 
 **Want to collaborate? Let's make some magic together!** ✨
