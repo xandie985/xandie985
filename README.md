@@ -54,6 +54,6 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 
 **My Side Gigs:**
 
-* Stacking Karpathy, Cooking pasta, Shooting images, and "write something unpredictable".  
+* Stalking Karpathy, Cooking pasta, Shooting images, and "write something unpredictable".  
 
 **Want to collaborate? Let's make some magic together!** ✨
