@@ -17,12 +17,11 @@ Data whisperer & ML maestro 🧙‍♂️. I transform coffee into code (alleged
 
 <p align="center">
 <a href="https://github.com/xandie985">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=tokyonight&show_icons=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xandie985&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xandie985&theme=tokyonight&show_icons=true&hide_border=true"/>
   
-  <img height="140" width = "340" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight&last_30_days&langs_count=5"/>
-  <img height="140" width = "340" src="https://leetcard.jacoblin.cool/sandeepkumar998855??theme=unicorn?animation=true"/>
-  <img height="140" width = "250" src="https://github-readme-stats.vercel.app/api/top-langs?username=xandie985&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="xandie985"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=sxandie&theme=tokyonight&hide_border=true&last_30_days&langs_count=5"/>
+  <img height="150" src="https://leetcard.jacoblin.cool/sandeepkumar998855?theme=dark&font=Noto%20Sans%20Ugaritic"/>
 </a>
 </p>
 
