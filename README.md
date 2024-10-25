@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/xandie985/count.svg)
+
 
 ## 👋 Hey there, I'm Sandeep!
 
